@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/Model Visualization "Model Visualization"
+[image1]: ./examples/Model_Visualization.png "Model Visualization"
 [image2]: ./examples/Gray_Image.jpg "Grayscaling"
 [image3]: ./examples/center_2018_01_03_21_04_16_060.jpg "Recovery Image"
 [image4]: ./examples/right_2018_01_03_21_04_16_060.jpg "Recovery Image"
